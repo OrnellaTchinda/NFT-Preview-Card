@@ -1,0 +1,122 @@
+/* Box Model Hack */
+* {
+  box-sizing: border-box;
+}
+
+/* Clear fix hack */
+.clearfix:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
+}
+
+.clear {
+  clear: both;
+}
+
+
+header {}
+
+body {
+  display: flex;
+  justify-content: center;
+  background-color: hsl(217, 54%, 11%);
+  align-items: center;
+  min-height: 100vh;
+
+
+}
+
+.container {
+  background-color: hsl(216, 50%, 16%);
+  border-radius: 10px;
+  width: 280px;
+  padding: 20px;
+  height: 450px;
+}
+
+.description {
+  margin: 30px 0 0 0;
+  color: hsl(215, 51%, 70%);
+}
+
+img {
+  width: 250px;
+  height: 200px;
+  border-radius: 10px;
+  display: flex;
+  align-content: center;
+
+}
+
+hr {
+  height: 1px;
+  color: #123455;
+  background-color: #123455;
+  border: none;
+}
+
+.things {
+  display: flex;
+  justify-content: space-between;
+}
+
+
+
+
+h1 {
+  font-size: 20px;
+  color: white;
+  text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
+
+.image {
+  display: flex;
+  justify-content: center;
+
+}
+
+
+.newBlock {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px 0 10px 0;
+}
+
+.card-info,
+.card-time {
+  display: flex;
+  align-items: center;
+  font-weight: 500;
+}
+
+.card-info {
+
+  color: hsl(178, 100%, 50%);
+}
+
+.card-icon {
+  height: 30px;
+  width: 25px;
+  margin-right: 6px;
+}
+
+.card-time {
+  color: hsl(215, 51%, 70%);
+}
+
+
+.end {
+  color: hsl(215, 51%, 70%)
+}
+
+
+footer {}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
