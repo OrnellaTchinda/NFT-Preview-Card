@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](Ornella NFT netlify.jpeg)
+![](https://github.com/OrnellaTchinda/NFT-Preview-Card/blob/ff0af9e5e63049b3bdc91d21c6475d3eedb83360/Ornella%20NFT%20netlify.jpeg)
 
 ### Links
 
