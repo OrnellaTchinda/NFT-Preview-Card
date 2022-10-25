@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: (https://ornella-nft.netlify.app/)
+- Live Site URL: (https://nft-preview-card-by-ot.netlify.app/)
 
 ## My process
 
