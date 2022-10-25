@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](Web_capture_ornella-nft.netlify.app.jpeg)
+![](Ornella NFT netlify.jpeg)
 
 ### Links
 
