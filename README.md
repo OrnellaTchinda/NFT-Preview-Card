@@ -47,7 +47,7 @@ Users should be able to:
 
 ### What I learned
 
-I learned more about flexbox and was able to practice more html and CSS. I am getting more confortable with my CSS code and the organisation of it.
+I learned more about flexbox and was able to practice more html and CSS. I am getting more confortable with my CSS code and its organisation.
 
 
 ### Continued development
@@ -62,6 +62,6 @@ I will like to work more on flexbox and writing less lines on CSS
 
 
 ## Acknoledgements
-I worked on this project with two amazong friends
+I worked on this project with two amazing friends
 
 
